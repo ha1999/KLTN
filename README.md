@@ -1,4 +1,4 @@
-# KLTN
+
 
 # SETUP
 
@@ -19,7 +19,7 @@
 
 	 docker-compose up - run container from images
 	 docker-compose down - stop and remove containers are created from docker-compose
-# STEP 5: View result
+### STEP 5: View result
 
 	 Edit /etc/hosts in linux or macos
 		- Add to file a line: `127.0.0.1 www.viettraveluet-linux-ha.com`
